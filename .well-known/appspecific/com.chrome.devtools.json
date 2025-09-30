@@ -1,0 +1,2 @@
+mkdir -p public/.well-known/appspecific
+echo "{}" > public/.well-known/appspecific/com.chrome.devtools.json
