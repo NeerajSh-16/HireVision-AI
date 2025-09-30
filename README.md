@@ -12,11 +12,8 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Puter.js-181758?style=for-the-badge&logoColor=white">
   </div>
 
-  <h3 align="center">AI Resume Analyzer</h3>
+  <h3 align="center">HireVision AI an AI based Resume Analyzer</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -28,13 +25,6 @@
 5. 🔗 [Assets](#links)
 6. 🚀 [More](#more)
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://www.youtube.com/watch?v=iYOz165wGkQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">✨ Introduction</a>
 
@@ -95,7 +85,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/ai-resume-analyzer.git
+git clone https://github.com/NeerajSh-16/HireVision-AI.git
 cd ai-resume-analyzer
 ```
 
@@ -115,21 +105,5 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## <a name="links">🔗 Assets</a>
 
-Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/resumind-kit)**.
 
-<a href="https://jsm.dev/resumind-kit" target="_blank">
-  <img src="public/readme/videokit.webp" alt="Video Kit Banner">
-</a>
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsm.dev/resumind-courses" target="_blank">
-  <img src="public/readme/jsmpro.webp" alt="Project Banner">
-</a>
